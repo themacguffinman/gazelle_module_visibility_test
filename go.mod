@@ -1,4 +1,4 @@
-module github.com/themacguffinman/moshirepo
+module github.com/themacguffinman/gazelle_module_visibility_test
 
 go 1.14
 
